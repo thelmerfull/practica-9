@@ -1,0 +1,5 @@
+c:\users\thelmerfull\documents\visual studio 2013\Projects\FacadePatternLab\FacadePatternLab\bin\Debug\FacadePatternLab.exe.config
+c:\users\thelmerfull\documents\visual studio 2013\Projects\FacadePatternLab\FacadePatternLab\bin\Debug\FacadePatternLab.exe
+c:\users\thelmerfull\documents\visual studio 2013\Projects\FacadePatternLab\FacadePatternLab\bin\Debug\FacadePatternLab.pdb
+c:\users\thelmerfull\documents\visual studio 2013\Projects\FacadePatternLab\FacadePatternLab\obj\Debug\FacadePatternLab.exe
+c:\users\thelmerfull\documents\visual studio 2013\Projects\FacadePatternLab\FacadePatternLab\obj\Debug\FacadePatternLab.pdb
